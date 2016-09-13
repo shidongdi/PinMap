@@ -1,0 +1,80 @@
+[
+  {
+    "longitude": 118.84987339696,
+    "latitude": 32.051569758826,
+    "scenic_name": "大金门",
+    "seq": 1
+  },
+  {
+    "longitude": 118.85045959145,
+    "latitude": 32.052625975235,
+    "scenic_name": "碑亭",
+    "seq": 2
+  },
+  {
+    "longitude": 118.84556355524,
+    "latitude": 32.054683328608,
+    "scenic_name": "石象路",
+    "seq": 4
+  },
+  {
+    "longitude": 118.84313541462,
+    "latitude": 32.055650781516,
+    "scenic_name": "望柱",
+    "seq": 5
+  },
+  {
+    "longitude": 118.84354174869,
+    "latitude": 32.057512111002,
+    "scenic_name": "翁仲路",
+    "seq": 6
+  },
+  {
+    "longitude": 118.84607959417,
+    "latitude": 32.059155364336,
+    "scenic_name": "金水桥",
+    "seq": 7
+  },
+  {
+    "longitude": 118.84608476509,
+    "latitude": 32.060226475285,
+    "scenic_name": "文武方门",
+    "seq": 8
+  },
+  {
+    "longitude": 118.84608326431,
+    "latitude": 32.060784612866,
+    "scenic_name": "碑殿",
+    "seq": 9
+  },
+  {
+    "longitude": 118.84607839319,
+    "latitude": 32.061607882744,
+    "scenic_name": "享殿",
+    "seq": 10
+  },
+  {
+    "longitude": 118.84608312688,
+    "latitude": 32.062161569053,
+    "scenic_name": "内红门",
+    "seq": 11
+  },
+  {
+    "longitude": 118.84608806472,
+    "latitude": 32.063949732514,
+    "scenic_name": "方城明楼",
+    "seq": 12
+  },
+  {
+    "longitude": 118.84609036231,
+    "latitude": 32.064627432373,
+    "scenic_name": "宝顶",
+    "seq": 14
+  },
+  {
+    "longitude": 118.84564476158,
+    "latitude": 32.055603173959,
+    "scenic_name": "梅花山",
+    "seq": 3
+  }
+]

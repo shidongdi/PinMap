@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:gravity="center_vertical"
+              android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tvMark"
+        android:layout_width="13dp"
+        android:layout_height="13dp"
+        android:background="@mipmap/ic_point_yellow"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="10sp"/>
+
+    <TextView
+        android:id="@+id/tvMarkName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="1dp"
+        android:background="@drawable/bg_marker"
+        android:singleLine="true"
+        android:text="中山陵"
+        android:textColor="@android:color/white"
+        android:textSize="11sp"/>
+
+</LinearLayout>
